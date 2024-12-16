@@ -7,6 +7,7 @@ int main()
 {JINNIE
     std::cout << "Hello World!\n";
     std::cout << "kyx!\n";
+    std::cout << "lxt!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
